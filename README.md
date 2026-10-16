@@ -1,5 +1,7 @@
 # Six Star Finishers Analysis
 
+[Wersja polska](README_PL.md)
+
 ## Project Overview
 
 This project presents an analysis of **27,964 Six Star Finishers**, athletes who have completed all six original Abbott World Marathon Majors:
