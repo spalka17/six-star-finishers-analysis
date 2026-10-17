@@ -2,6 +2,8 @@
 
 [Wersja polska](README_PL.md)
 
+[View Interactive Power BI Dashboard](https://app.fabric.microsoft.com/view?r=eyJrIjoiZGFmZWRkOWMtZTE2Zi00MTM2LTkwODctNmRjZGRmOWVlMmVmIiwidCI6IjI3ZWI2YjZjLWRhZWQtNDFkMS05NTJhLTM0ZDY0MjgzZWFhNSJ9&embedImagePlaceholder=true)
+
 ## Project Overview
 
 This project presents an analysis of **27,964 Six Star Finishers**, athletes who have completed all six original Abbott World Marathon Majors:
