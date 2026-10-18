@@ -284,10 +284,12 @@ It presents:
 
 - comparisons between first and last recorded marathon times,
 - the percentage of results under three hours for each marathon,
+- the number of finishers whose median finish time across six recorded marathons exceeds four hours,
+- the percentage of all recorded marathon results exceeding four hours,
 - the distribution of time differences between each athlete's fastest and slowest recorded results,
 - a ranking of marathons where athletes most frequently achieved their fastest times,
 - the percentage distribution of marathon finish times,
-- detailed comparisons of athletes' fastest and slowest recorded results.
+- detailed comparisons of athletes' fastest and slowest recorded results, including the year of each race.
 
 The comparison between first and last recorded marathon times showed that:
 
@@ -295,6 +297,8 @@ The comparison between first and last recorded marathon times showed that:
 - **16,473 athletes (59%)** recorded a slower time in their last marathon.
 
 Ten athletes recorded identical times in both compared results.
+
+Additionally, **12,533 finishers** had a median finish time exceeding four hours across their six recorded marathons, while **45.5% of all recorded marathon results** exceeded four hours.
 
 ![Marathon Results](Screenshots/05_marathon_results.png)
 
