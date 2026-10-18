@@ -278,23 +278,18 @@ Przedstawiony okres wynika z dostępnych sześciu wyników i nie musi odpowiada�
 
 ### 5. Marathon Results
 
-Strona Marathon Results koncentruje się na wynikach sportowych Six Star Finishers.
+Strona Marathon Results koncentruje się na analizie wyników maratońskich Six Star Finishers.
 
 Przedstawia:
 
-- porównanie czasu pierwszego i ostatniego zapisanego maratonu,
+- porównanie czasów pierwszego i ostatniego zarejestrowanego maratonu,
 - udział wyników poniżej trzech godzin na każdym maratonie,
-- rozkład różnic między najszybszym a najwolniejszym wynikiem zawodnika,
-- ranking maratonów, na których zawodnicy najczęściej osiągali najlepsze czasy,
+- liczbę zawodników, których mediana czasu ukończenia sześciu zarejestrowanych maratonów przekracza cztery godziny,
+- procentowy udział wszystkich wyników maratońskich przekraczających cztery godziny,
+- rozkład różnic między najszybszym a najwolniejszym zarejestrowanym wynikiem każdego zawodnika,
+- ranking maratonów, na których zawodnicy najczęściej osiągali swoje najlepsze czasy,
 - procentowy rozkład czasów ukończenia poszczególnych maratonów,
-- szczegółowe zestawienie najszybszych i najwolniejszych wyników zawodników.
-
-Porównanie pierwszego i ostatniego zapisanego maratonu wykazało, że:
-
-- **11 481 zawodników (41%)** uzyskało szybszy wynik w ostatnim maratonie,
-- **16 473 zawodników (59%)** uzyskało wolniejszy wynik w ostatnim maratonie.
-
-Dziesięciu zawodników uzyskało taki sam czas w obu porównywanych wynikach.
+- szczegółowe porównanie najszybszych i najwolniejszych wyników zawodników, wraz z rokiem rozegrania każdego bie
 
 ![Marathon Results](Screenshots/05_marathon_results.png)
 
